@@ -7,13 +7,11 @@ body {
 
 a {
     color: #11999E;
-    /* font-family: 'Montserrat', sans-serif; */
-    /* margin: 10px 20px; */
     text-decoration: none;
 }
 
 a:hover {
-    color: #eaf6f6
+    color: #40514E;
 }
 
 h1 {
@@ -146,6 +144,11 @@ p {
 }
 
 .footer-link {
+    color: #eaf6f6;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
+}
+
+.footer-link:hover {
+    color: #11999E;
 }
