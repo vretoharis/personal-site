@@ -152,3 +152,12 @@ p {
 .footer-link:hover {
     color: #11999E;
 }
+
+span {
+    opacity: 0;
+    transition: all 0.5s ease;
+}
+
+span.fade {
+    opacity: 1;
+}
